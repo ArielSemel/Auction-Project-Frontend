@@ -1,0 +1,35 @@
+.item-card{
+    background-color: white;
+    color: #10A37F;
+    cursor: pointer;
+    border-radius: 1px;
+    border: solid black 2px;
+    box-shadow: 5px 5px 5px cadetblue;
+    margin: 5px;
+}
+
+.manage-container{
+    margin-top: 10px;
+    display: flex;
+    justify-content: left;
+    padding: 16px;
+}
+
+.users-container {
+    flex-direction: row;
+    width: 45%;
+    justify-content: center;
+    margin-right: auto;
+}
+.products-container {
+    flex-direction: row;
+    width: 45%;
+    justify-content: center;
+    margin-left: auto;
+}
+
+.credit-title{
+    background-color: lightslategray;
+    color: white;
+}
+

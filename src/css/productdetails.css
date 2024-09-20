@@ -1,0 +1,25 @@
+.product-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #30A37F;
+    width: 50%;
+    margin: 1% auto;
+    border-radius: 10px;
+
+}
+
+.product-image {
+    max-width: 30%;
+    height: auto;
+    margin-left: 5%;
+}
+
+.product-details {
+    max-width: 100%;
+    color: white;
+}
+
+.product-input {
+    margin-top: 2%;;
+}
